@@ -1,0 +1,13 @@
+[package]
+name = "nc-clap-cli"
+version = "0.1.0"
+authors = ["Noah <33094578+coolreader18@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.32"
+clap = "2.33.2"
+structopt = "0.3.16"
+shell-words = "1.0.0"
